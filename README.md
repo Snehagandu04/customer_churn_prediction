@@ -1,5 +1,5 @@
 # Customer Churn Prediction 🚀📊
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Snehagandu04/customer_churn_prediction/blob/master/customer_churn_prediciton_(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Snehagandu04/customer_churn_prediction/blob/master/customer_churn_prediction.ipynb)
 
 A notebook-driven project for predicting customer churn using classical machine learning workflows. The repository centers on a single Jupyter notebook that loads data, performs preprocessing and exploratory analysis, trains models, and evaluates performance.
 
